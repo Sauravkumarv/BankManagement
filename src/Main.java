@@ -22,8 +22,8 @@ public class Main {
 double amount=sc.nextDouble();
 
 manager.createUser(id,name,amount);
-manager.deposit(id,amount);
-System.out.print("Balance"+manager.getBalance(id));
+manager.deposite(id,amount);
+System.out.print("Balance: "+ manager.fetchBalance(id));
 
 
     }
