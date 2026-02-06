@@ -12,7 +12,7 @@ The system is designed like a real backend using **Controller → Manager → Se
 
 ---
 
-## 🧠 Architecture Used
+##  Architecture Used
 
 Main (Controller)
 ↓
