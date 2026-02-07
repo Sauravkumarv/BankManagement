@@ -2,7 +2,7 @@
 
 This project is a console-based **Bank Account Management System** built using **Core Java** and **OOP principles** following an **industry-standard layered architecture**.
 
-It allows users to:
+It allows users to :
 - Create a bank account
 - Deposit money
 - Withdraw money
