@@ -25,7 +25,7 @@ AccountRepository
 BankAccount (Model)
 
 
-This is the same architecture used in **Spring Boot and Microservices**.
+This is the same architecture used in   **Spring Boot and Microservices**.
 
 ---
 
