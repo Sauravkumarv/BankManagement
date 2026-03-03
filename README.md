@@ -1,4 +1,4 @@
-# 🏦 Bank Account Management System (Core  Java)
+# 🏦  Bank  Account Management System (Core  Java)
 
 This project is a console-based **Bank Account Management System** built using **Core Java** and **OOP principles** following an **industry-standard layered architecture**.
 
